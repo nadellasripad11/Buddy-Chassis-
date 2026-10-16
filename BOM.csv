@@ -1,4 +1,3 @@
-Part,Qty,Vendor,Link,Price (USD),Purpose
-"HALJIA 2Pcs DC Drive Gear Motor Dual Shaft + Tire Wheel (3V-6V, 65mm wheels)","1 pack (2 motors + 2 wheels)",haljia.com,https://www.haljia.com/products/haljia-2pcs-dc-drive-gear-motor-dual-shaft-and-tire-wheel-for-dc-3v-6v-smart-car-robot-projects-compatible-with-arduino?variant=42226972557558,7.99,"Drives the 2x TT motor mounts modeled into the chassis base; mounts cannot be verified without the motors"
-"M3 brass standoff + screw + nut assortment kit (120pcs)","1 kit",haljia.com,https://www.haljia.com/products/haljia-120-pcs-m3-male-female-brass-spacer-standoff-screw-nut-assortment-kit,9.99,"4x M3 standoffs for ESP32, 4x lid screws into corner pillars, 2x face-frame screws, display posts"
-"TOTAL (pre-tax)",,,,17.98,"Tier 1 cap $30 — about $10.58 headroom after ~8% tax (~$19.42)"
+Item,Qty,Supplier,Cost/item,Total Cost,link
+"TT DC gearbox motors with wheels (3-6V, 65mm wheels)",1,Amazon,$9.69,$9.69,https://www.amazon.com/dp/B0D8H89XDY
+Estimated total shipping,1,,,$0.00,
